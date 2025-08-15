@@ -11,7 +11,6 @@ It mocks the backend, streams one event every 100ms, parses the data into TypeSc
 - **Live UI updates** — assistant messages update in real-time as events arrive.
 - **Card actions** — approve (✓) to finalize, reject (✕) to remove from chat.
 - **UI polish** — gradient backgrounds, rounded chat bubbles, hover effects, and animations.
-- **Brief assistant display** — shows only the first 120 characters for a clean chat flow.
 
 ## 📸 UI Preview
 
