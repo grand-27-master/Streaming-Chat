@@ -37,5 +37,4 @@ npm install
 ### 2️⃣ Start the development server
 ```bash
 npm run dev
-# Frontend: http://localhost:5173
-# Backend:  http://localhost:3001/api/improve
+# App : http://localhost:5173
